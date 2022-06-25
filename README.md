@@ -27,4 +27,6 @@ Notas sobre UDS en macOS.
     sudo python tccutil.py -e --microphone -p /Applications/UDSClient.app
     ```
 
+   > A partir de este momento el cliente de UDS se debería abrir con normalidad.
+   
 5. Reactivar SIP en el Mac.
